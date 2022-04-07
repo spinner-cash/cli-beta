@@ -1,0 +1,20 @@
+{
+  "name": "@spnrapp/cli-beta",
+  "version": "0.1.0",
+  "description": "Spinner.Cash - Private Transactions for ICP and BTC",
+  "main": "index.js",
+  "bin": {
+    "spinner-beta": "index.js"
+  },
+  "author": "Spinner <spnr@spnr.app> (https://spinner.cash)",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinner-cash/cli-beta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spinner-cash/cli-beta/issues"
+  },
+  "homepage": "https://spinner.cash",
+  "keywords": ["spinner", "SPNR", "privacy", "blockchain", "token", "transaction"]
+}
