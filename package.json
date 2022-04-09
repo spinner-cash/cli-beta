@@ -1,6 +1,6 @@
 {
   "name": "@spnrapp/cli-beta",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Spinner.Cash - Private Transactions for ICP and BTC",
   "main": "index.js",
   "bin": {
